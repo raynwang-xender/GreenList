@@ -1,4 +1,5 @@
 /build
-/libs
+/.idea
+/.gradle
 *.iml
 /release
